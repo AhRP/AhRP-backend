@@ -1,0 +1,9 @@
+node_modules
+.DS_STORE
+
+##Intelij##
+# User-specific stuff:
+.idea/
+
+##Api Keys##
+server/config/api_keys.js
